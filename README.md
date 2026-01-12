@@ -52,6 +52,11 @@ My main language is English, but I am a native French speaker.
 [![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/rcw)
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/rcw)
 
+- [OptiNotFine](https://tangled.org/desoroxxx.redstudio.dev/OptiNotFine)
+
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/optinotfine)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/optinotfine)
+
 ## Other Projects
 
 - [Opticraft](https://github.com/Red-Studio-Ragnarok/Opticraft)
