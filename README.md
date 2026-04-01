@@ -10,6 +10,8 @@
   
 Hi, I'm Desoroxxx. My name is Luna Lage, I play games and create things.
 
+[Also on Tangled!](https://tangled.org/did:plc:c7sqzkffymznwn6n3fuq6gvo)
+
 [My Socials](https://solo.to/desoroxxx)
 
 - 👀 I’m interested in programming, and all sort of things
